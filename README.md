@@ -27,4 +27,4 @@ accelerate launch --mixed_precision="bf16"  train_text_to_image_lora.py --pretra
 
 ### 輸出圖片
 * **prompt = fhirou**
-![output](https://cdn.discordapp.com/attachments/871761664503074868/1239603804647981116/media_images_validation_4032_375445981f32b0bfcd82.png?ex=66438681&is=66423501&hm=7220bc59c32b36bd6e92aa8dc1a6c1bd8d412d68e0f624633fe6f0b1a3173518&)
+![output](https://cdn.discordapp.com/attachments/871761664503074868/1239603804647981116/media_images_validation_4032_375445981f32b0bfcd82.png?ex=66438681&is=66423501&hm=7220bc59c32b36bd6e92aa8dc1a6c1bd8d412d68e0f624633fe6f0b1a3173518& x200)
