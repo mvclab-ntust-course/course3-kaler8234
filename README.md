@@ -27,4 +27,4 @@ accelerate launch --mixed_precision="bf16"  train_text_to_image_lora.py --pretra
 
 ### 輸出圖片
 * **prompt = fhirou**
-圖片為output.png
+圖片再 output 資料夾裡
